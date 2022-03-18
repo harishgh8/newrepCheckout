@@ -1,0 +1,7 @@
+[
+    { "value": "CN", "label": "Canada" },
+    { "value": "US", "label": "USA" },
+    { "value": 3, "label": "Mexico" },
+    { "value": 4, "label": "Item 4" },
+    { "value": 5, "label": "Item 5" }
+]
