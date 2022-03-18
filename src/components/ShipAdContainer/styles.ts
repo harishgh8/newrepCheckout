@@ -11,3 +11,20 @@ export const Title = styled.p`
   letter-spacing: 0em;
   margin-bottom: ${tokens.size6};
   `
+
+export const Title = styled.p`
+font-family: ${tokens.fontFamilyLight};
+font-size: ${tokens.fontSize9};
+align-self: center;
+line-height: 44px;
+letter-spacing: 0em;
+margin-bottom: ${tokens.size6};
+`
+export const Title = styled.p`
+  font-family: ${tokens.fontFamilyLight};
+  font-size: ${tokens.fontSize9};
+  align-self: center;
+  line-height: 44px;
+  letter-spacing: 0em;
+  margin-bottom: ${tokens.size6};
+  `
